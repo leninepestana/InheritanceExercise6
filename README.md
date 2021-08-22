@@ -18,3 +18,8 @@ The abstract keyword is a non-access modifier, used for classes and methods:
 
 To reuse the code\
 Superclass Polymorphism standardizes account types. Equal attributes are in the superclass. We can put all account types in a collection.
+
+`abstractTestOne branch`
+
+In the abstractTestOne branch, we create another possible implementation example with abstract classes.\
+Using the abstract class Account we create a list in which we deposit 10.00 on all accounts. This type of operation is easier to implement in generic classes.
