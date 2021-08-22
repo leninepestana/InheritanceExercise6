@@ -13,3 +13,8 @@ The abstract keyword is a non-access modifier, used for classes and methods:
 - Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
 
 ![class-diagram-polymorphism](https://user-images.githubusercontent.com/22635013/130362329-9c178ce8-a6a9-4081-a1f7-8794a539771a.png)
+
+### Why do we create abstract classes?
+
+To reuse the code\
+Superclass Polymorphism standardizes account types. Equal attributes are in the superclass. We can put all account types in a collection.
