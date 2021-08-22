@@ -12,4 +12,4 @@ The abstract keyword is a non-access modifier, used for classes and methods:
 - Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
 - Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
 
-![class-diagram-polymorphism](https://user-images.githubusercontent.com/22635013/130362054-d825653f-db83-4690-bea1-07f507027ee6.png)
+![class-diagram-polymorphism](https://user-images.githubusercontent.com/22635013/130362329-9c178ce8-a6a9-4081-a1f7-8794a539771a.png)
